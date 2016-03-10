@@ -1,7 +1,7 @@
-var styles = {
+var PromptStyles = {
 	transparentBg: {
 		background: 'transparent'
 	}
 };
 
-module.exports = styles;
+module.exports = PromptStyles;

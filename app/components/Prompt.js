@@ -1,5 +1,5 @@
 var React = require('react');
-var transparentBg = require('../styles').transparentBg;
+var transparentBg = require('../styles/PromptStyles.js').transparentBg;
 var PropTypes = React.PropTypes;
 
 

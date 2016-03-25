@@ -30,7 +30,7 @@ var PromptContainer = React.createClass({
 					playerOne: this.props.routeParams.playerOne,
 					playerTwo: this.state.username
 				}
-			})
+			});
 		}
 		else{
 			console.log("context", this.context);
